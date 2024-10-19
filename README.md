@@ -1,4 +1,6 @@
-### Hi there 👋
+### I am a engineer at Universidade Estadual Paulista, and at Telecom Paris. 
+I have worked with a multitude of diferent programming languages over the years, even tho I usually tend to forget to upload then here. 
+Contact me thru my linkedin profile!
 
 <!--
 **GabrielZCipriano/GabrielZCipriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
